@@ -52,13 +52,6 @@ Ano: 1899
 Livro cadastrado com sucesso!
 ```
 
-## Próximos passos
-
-- [ ] Persistir os dados em arquivo (.txt ou .csv)
-- [ ] Migrar o armazenamento para um banco de dados real (SQLite via JDBC)
-- [ ] Adicionar busca por título/autor
-- [ ] Criar interface gráfica (Swing ou JavaFX)
-
 ## O que aprendi
 
 Esse foi meu primeiro projeto aplicando Programação Orientada a Objetos na prática. 
