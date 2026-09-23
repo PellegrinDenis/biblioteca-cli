@@ -26,7 +26,7 @@ Pré-requisito: ter o JDK instalado ([Adoptium Temurin](https://adoptium.net/)).
 
 ```bash
 # Clone o repositório
-git clone <url-do-seu-repositorio>
+git clone https://github.com/PellegrinDenis/biblioteca-cli
 cd biblioteca-cli/src
 
 # Compile
@@ -67,4 +67,4 @@ de exceções para deixar o programa melhor.
 
 ---
 
-Desenvolvido por Denis Pellegrin — https://www.linkedin.com/in/denispellegrin/# biblioteca-cli
+Desenvolvido por Denis Pellegrin — https://www.linkedin.com/in/denispellegrin/# biblioteca-cl
