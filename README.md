@@ -67,4 +67,4 @@ de exceções para deixar o programa melhor.
 
 ---
 
-Desenvolvido por Denis Pellegrin — https://www.linkedin.com/in/denispellegrin/# biblioteca-cl
+Desenvolvido por Denis Pellegrin — https://www.linkedin.com/in/denispellegrin
